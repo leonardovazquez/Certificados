@@ -3,7 +3,8 @@
 <p>  Además del Curriculum Vitae, en esta sección se encuentran algunos certificados:  </p> 
 
 </ul>  
-
+    
+   <li> Certificado de Inglés emitido por EF Standard English Test   </li> 
    <li> Tandem Project: Intercambio virtual de idioma español/alemán entre la Universidad Nacional de Mar del Plata y la Hochschule Augsburg </li>
    <li> Participación en la modalidad Reporte en el Congreso de Sistemas Embebidos 2021 </li>
    <li> Curso de SQL Server Intermedio en DataCamp </li>
