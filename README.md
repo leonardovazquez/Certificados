@@ -10,6 +10,7 @@
    <li> Curso de SQL Server Intermedio en DataCamp </li>
    <li> Curso de Python: Aplicaciones y Juegos, Udemy </li>
    <li> Certificado de cursada aprobada en BootCamp de Ciberseguridad </li>
+   <li> Certificado de cursada aprobada en curso de Internet de las Cosas </li>
    <li> Asistencia en curso de Diseño Digital de la Escuela Argentina de Micro-Nanoelectrónica, tecnología y aplicaciones   </li>
    
 </ul>
